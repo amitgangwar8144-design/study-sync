@@ -627,6 +627,7 @@ ul{
         grid-template-columns: repeat(2,1fr);
     }
     .footer-top{
-        padding-right: 7rem;
+        padding-right: 5rem;
+        padding-left: 0.001rem
     }
 }
