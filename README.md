@@ -1,3 +1,4 @@
+'''text
 study-sync/
 ├── image/
 │   ├── studysync.logo.png
@@ -26,3 +27,4 @@ study-sync/
 Clone or download this repository.
 Open index.html directly in any web browser.
 No external build tools or libraries required!
+text'''
